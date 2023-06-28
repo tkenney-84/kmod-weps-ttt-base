@@ -37,7 +37,7 @@ SWEP.Secondary.Ammo                     = ""
 
 -- SWEP.Secondary.IronFOV                  = 0                                     -- How much you 'zoom' in. Less is more!
  
-SWEP.Penetration                = true
+SWEP.Penetration                = false
 SWEP.Ricochet                   = true
 SWEP.MaxRicochet                        = 1
 SWEP.RicochetCoin               = 1

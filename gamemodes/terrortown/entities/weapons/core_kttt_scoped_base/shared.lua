@@ -48,7 +48,7 @@ SWEP.Scoped				= true
 
 SWEP.BoltAction		= false	
 
-SWEP.Penetration			= true
+SWEP.Penetration			= false
 SWEP.Ricochet			= true	
 SWEP.MaxRicochet			= 10
 

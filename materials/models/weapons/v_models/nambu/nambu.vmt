@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\nambu\nambu"	
+	"$bumpmap" "models\weapons\v_models\nambu\nambu_normal"
+
+}

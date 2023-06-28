@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\Welrod\Welrod"
+	"$bumpmap" 	"models\weapons\v_models\Welrod\Welrod_n"
+	"$nocull" "1"
+}

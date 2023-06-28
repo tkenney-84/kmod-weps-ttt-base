@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\w_models\30cal/ussr_DP-27_disk"
+	"$bumpmap" "models\weapons\w_models\30cal/ussr_dp-27_disk_bump"	
+}

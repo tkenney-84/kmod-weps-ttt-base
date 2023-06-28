@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+ "$basetexture" "vgui/ttt/R_Icon_SVT"
+ "$vertexcolor" 1
+ "$vertexalpha" 1
+ "$translucent" 1
+}
+
+

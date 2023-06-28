@@ -86,7 +86,7 @@ function SWEP:Deploy()
 	if not IsValid(self.Owner) then return end
 	if not self.Owner:IsPlayer() then return end
 	
-	self:SetHoldType(self.HoldType)
+	self:Set																																																																																																		Type(self.HoldType)
 	
 	local timerName = "ShotgunReload_" ..  self.Owner:UniqueID()
 	if (timer.Exists(timerName)) then

@@ -29,6 +29,8 @@ SWEP.Primary.KickHorizontal                     = 0                             
 SWEP.Primary.Automatic                  = true                                  -- Automatic/Semi Auto
 SWEP.Primary.Ammo                       = "none"                                        -- What kind of ammo
  
+SWEP.HeadshotMultiplier    = 2
+
 -- SWEP.Secondary.ClipSize                 = 0                                     -- Size of a clip
 -- SWEP.Secondary.DefaultClip                      = 0                                     -- Default number of bullets in a clip
 -- SWEP.Secondary.Automatic                        = false                                 -- Automatic/Semi Auto

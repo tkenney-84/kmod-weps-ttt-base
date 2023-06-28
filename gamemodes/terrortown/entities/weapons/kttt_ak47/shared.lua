@@ -28,8 +28,8 @@ SWEP.SelectiveFire		= true
 
 SWEP.ViewModelFOV			= 70
 SWEP.ViewModelFlip			= true
-SWEP.ViewModel				= "models/weapons/v_tct_ak47.mdl"	-- Weapon view model
-SWEP.WorldModel				= "models/weapons/w_tct_ak47.mdl"	-- Weapon world model
+SWEP.ViewModel				= "models/weapons/v_dot_ak47.mdl"	-- Weapon view model
+SWEP.WorldModel				= "models/weapons/w_ak47_m9k.mdl"
 SWEP.ShowWorldModel			= true
 SWEP.Base				= "core_kttt_gun_base"
 SWEP.Spawnable				= true

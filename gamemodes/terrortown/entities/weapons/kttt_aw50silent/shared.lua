@@ -37,9 +37,10 @@ SWEP.AdminSpawnable			= true
 -- TTT Required Variables
 SWEP.Kind = WEAPON_EQUIP1											-- SWEP.Kind determines what slot the weapon is to take up.
 SWEP.AmmoEnt = "none"									-- SWEP.AmmoEnt determines the ammo pickup that will feed this gun.
-SWEP.Icon = "vgui/ttt/icon_m9k_aw50.vmt"							-- SWEP.Icon is the path to the icon for the weapon (when investigating bodies and such).
+SWEP.Icon = "vgui/ttt/m9k_aw50.vmt"							-- SWEP.Icon is the path to the icon for the weapon (when investigating bodies and such).
+print("vgui/ttt/m9k_aw50.vmt")
 if SERVER then														-- Adds the icon file to the servers resources.
-	resource.AddFile("materials/vgui/ttt/icon_m9k_aw50.vmt")
+	resource.AddFile("materials/vgui/ttt/m9k_aw50.vmt")
 end
 SWEP.CanBuy = { ROLE_TRAITOR }													-- SWEP.CanBuy is an array of roles who can purchase this weapon with credits.
 --SWEP.InLoadoutFor = nil												-- SWEP.InLoadoutFor is an array of roles who start with this weapon.
